@@ -1,0 +1,13 @@
+bd\dao\TimeFutebolDAO.class
+bd\model\Cidade.class
+bd\util\ConnectionFactory.class
+bd\servlet\EditarTimeServlet.class
+bd\dao\TecnicoDAO.class
+bd\model\Tecnico.class
+bd\model\Campeonato.class
+bd\model\TimeFutebol.class
+bd\dao\CampeonatoDAO.class
+bd\model\Serie.class
+bd\servlet\ExcluirTimeServlet.class
+bd\model\Jogador.class
+bd\servlet\CadastrarTimeServlet.class
